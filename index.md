@@ -2,28 +2,29 @@
 
 ---
 
-### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Data Analysis
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+- [Time Series Data](https://github.com/pallabee/Time-Series-for-Stock-Price-Prediction)
+- [Text Data](https://github.com/pallabee/EDA-for-Text-using-R)
+- [Demographic Data](https://github.com/pallabee/Demographic-Data-Analysis)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
+### Computer Vision
 
-### Category Name 2
+- [Image Processing with OpenCV](https://github.com/pallabee/human-pose-estimation/blob/main/Task1_2.ipynb)
+- [Object Detection](https://github.com/pallabee/human-pose-estimation/blob/main/person_detector.ipynb)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+
+### Natural Language Processing
+
+- [Text Summarization](https://github.com/pallabee/Summarize-COVID-19-News)
+
+
+### Group Projects
+
+- [Object Recognition]
+- [Log Aggregator](https://github.com/pallabee/LogAggregator-4)
 
 ---
 

@@ -23,7 +23,7 @@
 
 ### Group Projects
 
-- [Object Recognition]
+- [Object Recognition](https://github.com/pallabee/ProductManagement)
 - [Log Aggregator](https://github.com/pallabee/LogAggregator-4)
 
 ---

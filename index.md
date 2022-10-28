@@ -7,8 +7,10 @@
 
 - Time Series Data<br>
 <a href = "https://github.com/pallabee/Time-Series-for-Stock-Price-Prediction/tree/main/eda"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
-- [Text Data](https://github.com/pallabee/EDA-for-Text-using-R)
-- [Demographic Data](https://github.com/pallabee/Demographic-Data-Analysis)
+- Text Data<br>
+<a href = "https://github.com/pallabee/EDA-for-Text-using-R"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
+- Demographic Data<br>
+<a href = "https://github.com/pallabee/Demographic-Data-Analysis"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
 
 
 ### Structured Data

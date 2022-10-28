@@ -13,23 +13,22 @@
 <a href = "https://github.com/pallabee/EDA-for-Text-using-R"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
 
 
-### Structured Data
+### Machine Learning for Tabular Data
 - Modelling Time Series 
 
 
-### Unstructured Data
+### Deep Learning for Unstructured Data (Image, Text)
 
 - Text Summarization<br>
 <a href = "https://github.com/pallabee/Summarize-COVID-19-News"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
 - Object Detection<br>
 <a href = "https://github.com/pallabee/human-pose-estimation/blob/main/person_detector.ipynb"><img src="https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter" alt="Open Notebook" /></a>
 - Image Processing with OpenCV<br>
-<a href = "https://github.com/pallabee/human-pose-estimation/blob/main/Task1_2.ipynb"><img src="https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter" alt="Open Notebook" /></a>
 
 
 
 
-### Group Projects
+### Group Project
 
 - Object Recognition
 

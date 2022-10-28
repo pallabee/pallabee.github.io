@@ -5,12 +5,12 @@
 
 ### Exploratory Data Analysis
 
+- Demographic Data<br>
+<a href = "https://github.com/pallabee/Demographic-Data-Analysis"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
 - Time Series Data<br>
 <a href = "https://github.com/pallabee/Time-Series-for-Stock-Price-Prediction/tree/main/eda"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
 - Text Data<br>
 <a href = "https://github.com/pallabee/EDA-for-Text-using-R"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
-- Demographic Data<br>
-<a href = "https://github.com/pallabee/Demographic-Data-Analysis"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
 
 
 ### Structured Data
@@ -19,9 +19,14 @@
 
 ### Unstructured Data
 
-- [Image Processing with OpenCV](https://github.com/pallabee/human-pose-estimation/blob/main/Task1_2.ipynb)
-- [Object Detection](https://github.com/pallabee/human-pose-estimation/blob/main/person_detector.ipynb)
-- [Text Summarization](https://github.com/pallabee/Summarize-COVID-19-News)
+- Text Summarization<br>
+<a href = "https://github.com/pallabee/Summarize-COVID-19-News"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
+- Object Detection<br>
+<a href = "https://github.com/pallabee/human-pose-estimation/blob/main/person_detector.ipynb"><img src="https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter" alt="Open Notebook" /></a>
+- Image Processing with OpenCV<br>
+<a href = "https://github.com/pallabee/human-pose-estimation/blob/main/Task1_2.ipynb"><img src="https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter" alt="Open Notebook" /></a>
+
+
 
 
 ### Group Projects

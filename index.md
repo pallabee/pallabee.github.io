@@ -5,7 +5,7 @@
 
 ### Exploratory Data Analysis
 
-- [Time Series Data](https://github.com/pallabee/Time-Series-for-Stock-Price-Prediction)
+- [Time Series Data](https://github.com/pallabee/Time-Series-for-Stock-Price-Prediction/tree/main/eda)
 - [Text Data](https://github.com/pallabee/EDA-for-Text-using-R)
 - [Demographic Data](https://github.com/pallabee/Demographic-Data-Analysis)
 

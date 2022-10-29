@@ -5,23 +5,23 @@
 
 ### Exploratory Data Analysis
 
-- Demographic Data<br>
+- <b>Demographic Data</b><br>
 <a href = "https://github.com/pallabee/Demographic-Data-Analysis"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
-- Time Series Data<br>
+- <b>Time Series Data</b><br>
 <a href = "https://github.com/pallabee/Time-Series-for-Stock-Price-Prediction/tree/main/eda"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
-- Text Data<br>
+- <b>Text Data</b><br>
 <a href = "https://github.com/pallabee/EDA-for-Text-using-R"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
 
 
 ### Machine Learning
-- Anomaly detection using Classification 
+- <b>Anomaly detection using Classification</b>
 
 
 ### Deep Learning for Unstructured Data (Image, Text)
 
-- Text Summarization<br>
+- <b>Text Summarization<b><br>
 <a href = "https://github.com/pallabee/Summarize-COVID-19-News"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
-- Object Detection<br>
+- <b>Object Detection</b><br>
 <a href = "https://github.com/pallabee/human-pose-estimation/blob/main/person_detector.ipynb"><img src="https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter" alt="Open Notebook" /></a>
 
 ### Image Processing with OpenCV <br>

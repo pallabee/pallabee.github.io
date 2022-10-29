@@ -14,9 +14,9 @@ A Python project that uses statistical measures and visualizations to answer dat
 Explore and preprocess time series data using Python libraries. The data is to be used for forecasting.<br><br>
 <a href = "https://github.com/pallabee/Time-Series-for-Stock-Price-Prediction/tree/main/eda"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
 
-- <b>Text Data</b><br>
-A data wrangling project using R, using ggplot2 for data visualization.<br><br>
-<a href = "https://github.com/pallabee/EDA-for-Text-using-R"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
+- <b>EDA with R</b><br>
+A data wrangling project using tidyverse in R and ggplot2 for data visualization.<br><br>
+<a href = "https://github.com/pallabee/EDA-for-Text-using-R/blob/main/Inspecting_data.ipynb"><img src="https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter" alt="Open Notebook" />
 
 
 ### Machine Learning

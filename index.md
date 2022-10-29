@@ -13,7 +13,7 @@
 <a href = "https://github.com/pallabee/EDA-for-Text-using-R"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
 
 
-### Machine Learning for Tabular Data
+### Machine Learning
 - Anomaly detection using Classification 
 
 

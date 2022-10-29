@@ -6,15 +6,16 @@
 ### Exploratory Data Analysis
 
 - <b>Demographic Data</b><br>
-A Python project that uses statistical measures and visualizations to answer data analytics questions. It focuses on understanding the data and uncover relationships among data variables. The plots (i.e. scatter, box, strip, histogram, regression, correlation),heatmap are used for storytelling with data.<br>
-<img src="/images/box_strip_thumbnail.png?raw=true"/>
+A Python project that uses statistical measures and visualizations to answer data analytics questions. It focuses on understanding the data and uncover relationships among data variables. The plots (i.e. scatter, box, strip, histogram, regression, correlation),heatmap are used for storytelling with data.
 <br><br>
 <a href = "https://github.com/pallabee/Demographic-Data-Analysis"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
-<br>
+
 - <b>Time Series Data</b><br>
-vfhbdfvkjnjklsnjksfn<br>
+Explore and preprocess time series data using Python libraries. The data is to be used for forecasting.<br><br>
 <a href = "https://github.com/pallabee/Time-Series-for-Stock-Price-Prediction/tree/main/eda"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
+
 - <b>Text Data</b><br>
+A data wrangling project using R, using ggplot2 for data visualization.<br><br>
 <a href = "https://github.com/pallabee/EDA-for-Text-using-R"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
 
 

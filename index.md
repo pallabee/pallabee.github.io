@@ -39,9 +39,10 @@ A computer vision project about building a person detector using transfer learni
 
 
 
-### Group Project
+### Research Project
 
-- Object Recognition
+  - <b>Improve Object Recognition Rate of 3D printed parts</b><br>
+  To achieve higher recognition capabilities, a data driven approach is taken. A 3D dataset is created with optimised object poses (to match real world scenarios) using computer vision algorithms.
 
 ---
 

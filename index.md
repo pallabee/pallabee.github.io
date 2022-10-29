@@ -6,7 +6,9 @@
 ### Exploratory Data Analysis
 
 - <b>Demographic Data</b><br>
-A Python project that uses statistical measures and visualizations to answer data analytics questions. It focuses on understanding the data and uncover relationships among data variables. The plots (i.e. scatter, box, strip, histogram, regression, correlation),heatmap are used for storytelling with data.<br><br>
+A Python project that uses statistical measures and visualizations to answer data analytics questions. It focuses on understanding the data and uncover relationships among data variables. The plots (i.e. scatter, box, strip, histogram, regression, correlation),heatmap are used for storytelling with data.<br>
+<img src="images/box_strip_thumbnail?raw=true"/>
+<br><br>
 <a href = "https://github.com/pallabee/Demographic-Data-Analysis"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
 
 - <b>Time Series Data</b><br>

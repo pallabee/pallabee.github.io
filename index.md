@@ -46,4 +46,4 @@ A computer vision project about building a person detector using transfer learni
 
 
 ---
-<p style="font-size:11px"><center>Page template - Minimal Theme. Powered by Jekyll.</center>
+<p>© 2022 Pallabee Das. Powered by <a href="https://jekyllrb.com/">Jekyll</a>. Page template based on Minimal Theme by <a href="https://github.com/evanca/quick-portfolio">evanca</a><center></p>

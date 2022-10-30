@@ -39,7 +39,7 @@ Building a sequence to sequence model with Attention for summarization of Covid-
 A computer vision project about building a person detector using transfer learning. Faster-RCNN is used as a pre-trained model. The person detector outputs bounding box co-ordinates and confidence score of the matched object(i.e. person in the image). Inferences are run using images from the COCO dataset. Pytorch and OpenCV is used. <br><br>
 <a href = "https://github.com/pallabee/human-pose-estimation/blob/main/person_detector.ipynb"><img src="https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter" alt="Open Notebook" /></a>
 <center><img src="/images/person1_thumb.png" /></center>
-<center><img src="/images/person2_thumb.png" /></center>
+<center><img src="/images/person2_thumb.png" /></center><br>
 
 
 ### Research Project

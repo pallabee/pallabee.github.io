@@ -9,6 +9,9 @@
 A Python project that uses statistical measures and visualizations to answer data analytics questions. It focuses on understanding the data and uncover relationships among data variables. The plots (i.e. scatter, box, strip, histogram, regression, correlation),heatmap are used for storytelling with data.
 <br><br>
 <a href = "https://github.com/pallabee/Demographic-Data-Analysis"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
+<center><img src="/images/scatter_thumb.JPG" /></center>
+<center><img src="/images/plots_thumb.jpg" /></center>
+
 
 - <b>Time Series</b><br>
 Explore and preprocess time series data for extracting trend and seasonality using autocorrelation. Features extracted using Python libraries(ACF, PACF) are to be used for forecasting.<br><br>

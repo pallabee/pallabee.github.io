@@ -46,4 +46,4 @@ A computer vision project about building a person detector using transfer learni
 
 
 ---
-<p style="font-size:11px"><center>Credits: This page is created using Minimal Theme and powered by Jekyll.</center>
+<p style="font-size:11px"><center>© Page template - Minimal Theme. Powered by Jekyll.</center>

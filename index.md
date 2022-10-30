@@ -21,7 +21,7 @@ A data wrangling project using tidyverse in R and ggplot2 for data visualization
 
 ### Machine Learning
 - <b>Anomaly detection using Classification</b><br>
-A classification model using Random Forest is used to detect faulty data in ball bearing vibrations. The classificaton results will be useful for condition monitoring of industrial machine parts. Unbalanced data is handled using SMOTE.<br><br>
+A classification model using Random Forest is used to detect faulty data in ball bearing vibrations. The classificaton results will be used for condition monitoring of industrial machine parts. Unbalanced data is handled using SMOTE.<br><br>
 <a href = "https://github.com/pallabee/Anomaly-Detection/blob/main/classification.ipynb"><img src="https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter" alt="Open Notebook" />
 
 ### Deep Learning for Unstructured Data (Image, Text)

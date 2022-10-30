@@ -11,7 +11,7 @@ A Python project that uses statistical measures and visualizations to answer dat
 <a href = "https://github.com/pallabee/Demographic-Data-Analysis"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
 <center><img src="/images/scatter_thumb.JPG" /></center>
 <center><img src="/images/plots_thumb.jpg" /></center>
-
+<br><br>
 
 - <b>Time Series</b><br>
 Explore and preprocess time series data for extracting trend and seasonality using autocorrelation. Features extracted using Python libraries(ACF, PACF) are to be used for forecasting.<br><br>

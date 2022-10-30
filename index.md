@@ -40,11 +40,10 @@ A computer vision project about building a person detector using transfer learni
   - <b>Improve Object Recognition of 3D printed parts</b><br>
   To achieve higher recognition capabilities, a data driven approach is taken. A 3D dataset is created with optimised object poses (to match real world scenarios) using computer vision algorithms.
 
+
+
+
+
+
 ---
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<p style="font-size:11px"><center>Credits: This page is created using Jekyll Minimal Theme.</center>

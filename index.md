@@ -36,7 +36,7 @@ Building a sequence to sequence model with Attention for summarization of Covid-
 <a href = "https://github.com/pallabee/Summarize-COVID-19-News"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
   
 - <b>Object Detection</b><br>
-A computer vision project about building a person detector using transfer learning. Faster-RCNN is used as a pre-trained model. The person detector outputs bounding box co-ordinates and confidence score of the matched object(i.e. person in the image). Inferences are run using images from the COCO dataset. Pytorch and OpenCV is used. <br><br>
+A computer vision project about building a person detector using transfer learning. Faster-RCNN is used as a pre-trained model. The person detector outputs bounding box co-ordinates and confidence score of the matched object(i.e. person). Inferences are run using images from the COCO dataset. Pytorch and OpenCV is used. <br><br>
 <a href = "https://github.com/pallabee/human-pose-estimation/blob/main/person_detector.ipynb"><img src="https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter" alt="Open Notebook" /></a>
 <center><img src="/images/person1_thumb.png" /></center><br>
 

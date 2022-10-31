@@ -32,7 +32,7 @@ A classification model using Random Forest is used to detect faulty data in ball
 ### Deep Learning for Unstructured Data (Image, Text)
 
 - <b>Text Summarization</b><br>
-Building a sequence to sequence model with Attention for summarization of Covid-19 news.<br><br>
+Building a sequence to sequence model with Attention for summarization of Covid-19 news using Pytorch and RNN.<br><br>
 <a href = "https://github.com/pallabee/Summarize-COVID-19-News"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
   
 - <b>Object Detection</b><br>

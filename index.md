@@ -14,7 +14,7 @@ A Python project that uses statistical measures and visualizations to answer dat
 
 - <b>EDA with R</b><br>
 A data wrangling project using tidyverse in R and ggplot2 for data visualization.<br><br>
-<a href = "https://github.com/pallabee/EDA-for-Text-using-R/blob/main/Inspecting_data.ipynb"><img src="https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter" alt="Open Notebook" /></a>
+<a href = "https://github.com/pallabee/EDA-for-Text-using-R/blob/main/data_visualization.ipynb"><img src="https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter" alt="Open Notebook" /></a>
 <center><img src="/images/facet_wrap_thumb.JPG" /></center><br>
 
 - <b>Time Series</b><br>
@@ -26,7 +26,7 @@ Explore and preprocess time series data for extracting trend and seasonality usi
 ### Machine Learning
 - <b>Anomaly detection using Classification</b><br>
 A classification model using Random Forest is used to detect faulty data in ball bearing vibrations. The classificaton results will be used for condition monitoring of industrial machine parts. Unbalanced data is handled using SMOTE. Time series signal data is preprocessed using windowing and Fast Fourier Transform.<br><br>
-<a href = "https://github.com/pallabee/Anomaly-Detection/blob/main/classification.ipynb"><img src="https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter" alt="Open Notebook" /></a>
+<a href = "https://github.com/pallabee/Anomaly-Detection"><img src="https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter" alt="Open Notebook" /></a>
 <center><img src="/images/signal_plots_thumb.jpg" /></center><br>
 
 ### Deep Learning for Unstructured Data (Image, Text)

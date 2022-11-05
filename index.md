@@ -14,7 +14,7 @@ A Python project that uses statistical measures and visualizations to answer dat
 
 - <b>EDA with R</b><br>
 A data wrangling project using tidyverse in R and ggplot2 for data visualization.<br><br>
-<a href = "https://github.com/pallabee/EDA-for-Text-using-R/blob/main/data_visualization.ipynb"><img src="https://img.shields.io/badge/Jupyter-Open_Notebook-blue?logo=Jupyter" alt="Open Notebook" /></a>
+<a href = "https://github.com/pallabee/EDA-for-Text-using-R"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
 <center><img src="/images/facet_wrap_thumb.JPG" /></center><br>
 
 - <b>Time Series</b><br>

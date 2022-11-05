@@ -15,7 +15,7 @@ A Python project that uses statistical measures and visualizations to answer dat
 - <b>EDA with R</b><br>
 A data wrangling project using tidyverse in R and ggplot2 for data visualization.<br><br>
 <a href = "https://github.com/pallabee/EDA-for-Text-using-R"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
-<center><img src="/images/facet_wrap_thumb.JPG" /></center><br>
+<center><img src="/images/facet_wrap_thumb.png" /></center><br>
 
 - <b>Time Series</b><br>
 Explore and preprocess time series data for extracting trend and seasonality using autocorrelation. Features extracted using Python libraries(ACF, PACF) are to be used for forecasting.<br><br>

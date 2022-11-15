@@ -25,7 +25,7 @@ Explore and preprocess time series data for extracting trend and seasonality usi
 
 ### Machine Learning
 - <b>Predictive Maintenance using Classification</b><br>
-Predictive Maintenance for a Smart Quality system helps to know when a faulty machine part could be produced. A classification model fitted on historical ball bearing vibration data produces predictions on future failures. To account for an unbalanced dataset, Random Forest model is used. Data preprocessing and feature extraction is done on time series signal data.<br><br>
+Predictive Maintenance for a Smart Quality system helps to know when a faulty machine part could be produced. A classification model fitted on historical ball bearing vibration data produces predictions on future failures. To account for an unbalanced dataset, SMOTE and Random Forest model is used. Data preprocessing and feature extraction is done on time series signal data.<br><br>
 <a href = "https://github.com/pallabee/Predictive-Maintenance"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
 <center><img src="/images/signal_plots_thumb.jpg" /></center><br>
 

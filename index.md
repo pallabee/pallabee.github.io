@@ -52,4 +52,4 @@ A computer vision project about building a person detector using transfer learni
 
 
 ---
-<center>© 2022 Pallabee Das. Powered by <a href="https://jekyllrb.com/">Jekyll</a>. Page template from <a href="https://github.com/evanca/quick-portfolio">evanca</a></center>
+<center>© 2023 Pallabee Das. Powered by <a href="https://jekyllrb.com/">Jekyll</a>. Page template from <a href="https://github.com/evanca/quick-portfolio">evanca</a></center>

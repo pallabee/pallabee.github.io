@@ -41,7 +41,9 @@ A computer vision project about building a person detector using transfer learni
 <center><img src="/images/person1_thumb.png" /></center><br>
 
 
-### Research Project
+### Research Projects
+  - <b>Master Thesis</b><br>
+    We studied the Explainability for Graph Neural Networks.
 
   - <b>Improve Object Recognition of 3D printed parts</b><br>
   To achieve higher recognition capabilities, a data driven approach is taken. A 3D dataset is created with optimised object poses (to match real world scenarios) using computer vision algorithms.

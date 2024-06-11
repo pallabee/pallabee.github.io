@@ -42,10 +42,10 @@ A computer vision project about building a person detector using transfer learni
 
 
 ### Research Projects
-  - <b>Master Thesis</b><br>
+  - <b>Master's Thesis - XAI for GNNs</b><br>
     We studied the Explainability for Graph Neural Networks.
 
-  - <b>Improve Object Recognition of 3D printed parts</b><br>
+  - <b>Master's Project- Improve Object Recognition of 3D printed parts</b><br>
   To achieve higher recognition capabilities, a data driven approach is taken. A 3D dataset is created with optimised object poses (to match real world scenarios) using computer vision algorithms.
 
 
@@ -54,4 +54,4 @@ A computer vision project about building a person detector using transfer learni
 
 
 ---
-<center>© 2023 Pallabee Das. Powered by <a href="https://jekyllrb.com/">Jekyll</a>. Page template from <a href="https://github.com/evanca/quick-portfolio">evanca</a></center>
+<center>© 2024 Pallabee Das. Powered by <a href="https://jekyllrb.com/">Jekyll</a>. Page template from <a href="https://github.com/evanca/quick-portfolio">evanca</a></center>

@@ -43,7 +43,8 @@ A computer vision project about building a person detector using transfer learni
 
 ### Research Projects
   - <b>Master's Thesis - XAI for GNNs</b><br>
-    We studied the Explainability for Graph Neural Networks.
+    We studied the Explainability for Graph Neural Networks by leveraging Generative AI.
+    <a href = "https://github.com/pallabee/master-thesis"><img src="https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub" alt="View on GitHub" /></a>
 
   - <b>Master's Project- Improve Object Recognition of 3D printed parts</b><br>
   To achieve higher recognition capabilities, a data driven approach is taken. A 3D dataset is created with optimised object poses (to match real world scenarios) using computer vision algorithms.
